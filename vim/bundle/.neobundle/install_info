@@ -1,0 +1,2 @@
+3.0
+{'vim-colorschemes': {'checked_time': 1424421421, 'installed_uri': 'https://github.com/flazz/vim-colorschemes.git', 'installed_path': '/home/silas/.vim/bundle/vim-colorschemes', 'revisions': {'1414594518': '81c6dd7ce3169e5ad9ba92422ba6e1ce5b074e36'}, 'updated_time': '1414594518'}, 'neobundle.vim': {'checked_time': 1424421420, 'installed_uri': 'https://github.com/Shougo/neobundle.vim.git', 'installed_path': '/home/silas/.vim/bundle/neobundle.vim', 'revisions': {}, 'updated_time': 1424421420}}
