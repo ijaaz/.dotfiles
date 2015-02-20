@@ -1,3 +1,7 @@
+! No Scrollbar :)
+URxvt*scrollBar: false
+
+URxvt*saveLines: 0
 ! Select the fonts to be used. This is a comma separated list of font names that are checked in order when trying to find glyphs for characters. The first font defines the cell size for
 URxvt*font:xft:Ubuntu Mono:pixelsize=18,style=regular
 
