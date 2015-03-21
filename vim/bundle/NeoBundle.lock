@@ -1,2 +1,4 @@
-NeoBundleLock neobundle.vim dab02f0513dc7f8832cb7c191d43b84982ef34cb
+NeoBundleLock livestyle-vim 15db508f3af3a35570a5cf78f387a9063786bdd1
+NeoBundleLock neobundle.vim 0c31437b58831efa20a9623e78be25a90df8c8c8
 NeoBundleLock vim-colorschemes 81c6dd7ce3169e5ad9ba92422ba6e1ce5b074e36
+NeoBundleLock vim-orgmode 6b5a9dd4ae5b477e2db2ff1a310da35b9cecd761

@@ -6,7 +6,8 @@ URxvt*saveLines: 0
 URxvt*font:xft:Ubuntu Mono:pixelsize=18,style=regular
 
 ! Comma-separated list(s) of perl extension scripts (default: "default") to use in this terminal instance; option -pe.
-URxvt*perl-ext-common: default,selection-to-clipboard
+!URxvt*perl-ext-common: default,selection-to-clipboard
+
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !COLORS
@@ -46,10 +47,10 @@ URxvt*perl-ext-common: default,selection-to-clipboard
 ! the color assignment statement with its name. Example:
 !
 ! URxvt*background: S_base03
-URxvt*background: S_base03
+URxvt*background: #2d2d2d
 URxvt*foreground: S_base0
 URxvt*fading: 40
-URxvt*fadeColor: S_base03
+URxvt*fadeColor: #2d2d2d
 URxvt*cursorColor: S_base1
 URxvt*pointerColorBackground: S_base01
 URxvt*pointerColorForeground: S_base1

@@ -111,8 +111,6 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 
 " My Bundles here:
 NeoBundle 'flazz/vim-colorschemes'
-NeoBundle 'mattn/livestyle-vim'
-NeoBundle 'jceb/vim-orgmode'
 " Note: You don't set neobundle setting in .gvimrc!
 
 call neobundle#end()

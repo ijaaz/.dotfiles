@@ -1,7 +1,6 @@
 ! No Scrollbar :)
-URxvt.scrollBar: false
+URxvt*scrollBar: false
 
-! Don't save lines, use tmux
 URxvt*saveLines: 0
 ! Select the fonts to be used. This is a comma separated list of font names that are checked in order when trying to find glyphs for characters. The first font defines the cell size for
 URxvt*font:xft:Ubuntu Mono:pixelsize=18,style=regular
@@ -47,10 +46,10 @@ URxvt*perl-ext-common: default,selection-to-clipboard
 ! the color assignment statement with its name. Example:
 !
 ! URxvt*background: S_base03
-URxvt*background: S_base03
+URxvt*background: #2d2d2d
 URxvt*foreground: S_base0
 URxvt*fading: 40
-URxvt*fadeColor: S_base03
+URxvt*fadeColor: #2d2d2d
 URxvt*cursorColor: S_base1
 URxvt*pointerColorBackground: S_base01
 URxvt*pointerColorForeground: S_base1

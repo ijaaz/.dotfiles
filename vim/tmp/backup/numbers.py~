@@ -1,0 +1,9 @@
+import re
+
+num = open('numbers.txt')
+num = num.read()
+num = re.findall('\w', num)
+
+for n in range(len(num) -1):
+    if n != len(num):
+        print n+1
